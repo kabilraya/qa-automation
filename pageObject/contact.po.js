@@ -179,3 +179,4 @@ exports.ContactValidation = class ContactValidation {
     await this.page.locator(this.deleteContact);
   }
 };
+//comment

@@ -1,0 +1,69 @@
+{
+  "validcontact": {
+    "firstName": "Anis",
+    "lastName": "Bhujel",
+    "birthDate": "2058-10-13",
+    "email": "kabil_roy@yahoo.com",
+    "phoneNumber": "1234567890",
+    "streetone": "ktm",
+    "streettwo": "ktm",
+    "stateProvince": "bagmati",
+    "city": "ktm",
+    "postalCode": "4460",
+    "country": "Nepal"
+  },
+
+  "invalidcontact": {
+    "firstName": "",
+    "lastName": "",
+    "birthDate": "2058-10-13",
+    "email": "anis_bhujel@yahoo.com",
+    "phoneNumber": "1234567890",
+    "streetone": "ktm",
+    "streettwo": "ktm",
+    "stateProvince": "bagmati",
+    "city": "ktm",
+    "postalCode": "4460",
+    "country": "Nepal"
+  },
+
+  "contactNumberLength": {
+    "firstName": "Ram",
+    "lastName": "Shrestha",
+    "birthDate": "2058-11-13",
+    "email": "ramshrestha@yahoo.com",
+    "phoneNumber": "123",
+    "streetone": "ktm",
+    "streettwo": "ktm",
+    "stateProvince": "bagmati",
+    "city": "ktm",
+    "postalCode": "4460",
+    "country": "Nepal"
+  },
+  "EmailInvalid": {
+    "firstName": "Ram",
+    "lastName": "Shrestha",
+    "birthDate": "2058-11-13",
+    "email": "ramshrestha",
+    "phoneNumber": "1234567890",
+    "streetone": "ktm",
+    "streettwo": "ktm",
+    "stateProvince": "bagmati",
+    "city": "ktm",
+    "postalCode": "4460",
+    "country": "Nepal"
+  },
+  "editcontact": {
+    "firstName": "SRam",
+    "lastName": "Raya",
+    "birthDate": "2058-10-13",
+    "email": "gopalshrestha@yahoo.com",
+    "phoneNumber": "9805605891",
+    "streetone": "ktm",
+    "streettwo": "ktm",
+    "stateProvince": "bagmati",
+    "city": "ktm",
+    "postalCode": "4460",
+    "country": "Nepal"
+  }
+}

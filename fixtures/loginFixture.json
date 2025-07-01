@@ -1,0 +1,10 @@
+{
+  "validuser": {
+    "userName": "kabil_roy@yahoo.com",
+    "password": "goawayyoumuggle"
+  },
+  "invaliduser": {
+    "userName": "kabil_roy@yahoo.com",
+    "password": "grayy"
+  }
+}
